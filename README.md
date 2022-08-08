@@ -2,7 +2,7 @@
 
 I`m a C# backend developer, 40 years old, have two sons, whom I, unconditionally, completely love. I am a creative man, audacious a lot, and also a software development, and all kind of tecnologies, enthusiast.  
 
-In my last job I had experienced in creating a web-store, when, editing website templates, I have started learning software development, on a Python course. After that, I was suggested to look for something about C#, which I enjoy while studying, and didn`t stop till now. I have studied, and practiced a lot, .NET development, and nowadays I am looking for some opportunity to expand and improve my knowledge in it`s area.
+In my last job I had experienced in creating a web-store, when, editing website templates, I have started learning software development, on a Python course. After that, I was suggested to look for something about C#, which I enjoy while studying, and didn't stop till now. I have studied, and practiced a lot, .NET development, and nowadays I am looking for some opportunity to expand and improve my knowledge in it`s area.
 
 Thank you for visiting my profile. And, if you like to, you cand send me a message.
 
