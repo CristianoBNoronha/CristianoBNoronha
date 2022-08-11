@@ -30,6 +30,11 @@ CristianoBNoronha
   </a>
 </div>
 </br></br>
+ <div>
+  <a href="https://github.com/CristianoBNoronha">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoBNoronha&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+</br></br>
 <div>
     <a>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50" />
