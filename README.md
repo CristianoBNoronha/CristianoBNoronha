@@ -1,12 +1,10 @@
 ### Welcome to Cris`s GitHub Profile!
 
-I`m a C# backend developer, 40 years old, have two sons, who I completely love. I am creative, audacious a lot, and a software development enthusiast.
+I`m a C# backend developer. 
+My first contact with software development was at my last job, in 2020, while building a web store, using no code platform. After that, I took a Python course, but when I knew C#, discovered the one I´d like to work. I've been studing and practicing .NET development since that.
 
-While creating a web-store, by editing website templates, I started learning about software development, and didn't stop till now. First I did a Python course, than I knew C#, which I have hard identity, and I've been studing .NET development, and practicing a lot, since that.
+Thanks for visiting my profile.
 
-Thank you for visiting my profile. And, if you like to, you can send me a message.
-
-CristianoBNoronha
 </br></br>
 <div>
   <a>
