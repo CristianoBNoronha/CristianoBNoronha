@@ -10,8 +10,8 @@ CristianoBNoronha
 </br></br>
 <div>
   <a>
-    <href = "mailto:cris_nor@hotmail.com"><img src="https://img.shields.io/badge/email-hotmail-green" height="24" target="_blank">
-    <href="https://www.linkedin.com/in/cristiano-bauschert-noronha" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="95" target="_blank">   
+    <href = "mailto:crisnordev@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="24" target="_blank">
+    <href="https://www.linkedin.com/in/crisnordev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="95" target="_blank">   
   </a>
 </div>
 </br></br>
@@ -31,8 +31,8 @@ CristianoBNoronha
 </div>
 </br></br>
  <div>
-  <a href="https://github.com/CristianoBNoronha">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoBNoronha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/crisnordev">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisnordev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 </br></br>
 <div>
